@@ -1,4 +1,4 @@
-# TreinamentoCustomizadoYOLOv
+# TreinamentoCustomizadoYOLOv4
 
 O presente estudo apresenta-se como uma pesquisa de objetivo exploratório
 e de caráter experimental, usando dados de imagem de veículos, oriundas de base de
