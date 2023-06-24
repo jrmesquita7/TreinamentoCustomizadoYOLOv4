@@ -10,7 +10,8 @@ estacionamentos e na identificação de veículos em áreas restritas.
 ## Projeto de monografia do curso de Sistemas de Informação
 
 ## Protótipo 
+![controle](https://github.com/jrmesquita7/TreinamentoCustomizadoYOLOv4/assets/79610977/8ce39c4b-ccc3-4635-b8cb-4965ade8b251)
 
 ![cadastro](https://github.com/jrmesquita7/TreinamentoCustomizadoYOLOv4/assets/79610977/29fe0217-5cf4-4e44-932f-0fb9557b2a3c)
-![controle](https://github.com/jrmesquita7/TreinamentoCustomizadoYOLOv4/assets/79610977/8ce39c4b-ccc3-4635-b8cb-4965ade8b251)
+
 
