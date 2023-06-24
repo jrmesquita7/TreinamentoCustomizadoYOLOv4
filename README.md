@@ -14,4 +14,6 @@ estacionamentos e na identificação de veículos em áreas restritas.
 
 ![cadastro](https://github.com/jrmesquita7/TreinamentoCustomizadoYOLOv4/assets/79610977/29fe0217-5cf4-4e44-932f-0fb9557b2a3c)
 
+## Teste com precisão do modelo
 
+![Screenshot_2](https://github.com/jrmesquita7/TreinamentoCustomizadoYOLOv4/assets/79610977/ddfb4b5e-7088-474c-a1a2-68238e78e2de)
